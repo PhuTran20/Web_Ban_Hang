@@ -22,10 +22,7 @@ Route::get('/product', function() {
 Route::get('/blog', function() {
     return view('user.blog');
 });
-Route::get('/about', function() {
-    return view('user.about');
-});
-Route::get('/contact', function() {
-    return view('user.contact');
+Route::get('/product', function() {
+    return view('user.product');
 });
  

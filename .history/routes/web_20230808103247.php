@@ -26,6 +26,6 @@ Route::get('/about', function() {
     return view('user.about');
 });
 Route::get('/contact', function() {
-    return view('user.contact');
+    return view('user.about');
 });
  

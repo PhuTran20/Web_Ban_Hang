@@ -25,7 +25,4 @@ Route::get('/blog', function() {
 Route::get('/about', function() {
     return view('user.about');
 });
-Route::get('/contact', function() {
-    return view('user.contact');
-});
  
