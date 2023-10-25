@@ -1,12 +1,8 @@
-@extends('user.dashboard')
+@extends('user.topbar')
 @section('user')
 <section class="bg0 p-t-23 p-b-140">
     <div class="container">
-        <div class="p-b-10">
-            <h3 class="ltext-103 cl5">
-                Product Overview
-            </h3>
-        </div>
+   
 
         <div class="flex-w flex-sb-m p-b-52">
             <div class="flex-w flex-l-m filter-tope-group m-tb-10">
@@ -264,7 +260,7 @@
 
                     <div class="block2-txt flex-w flex-t p-t-14">
                         <div class="block2-txt-child1 flex-col-l ">
-                            <a href="{{url('/product_detail')}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+                            <a href="{{url('/')}}" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
                                 Esprit Ruffle Shirt
                             </a>
 
@@ -284,7 +280,6 @@
             </div>
 
              
-  
         </div>
 
         <!-- Load more -->

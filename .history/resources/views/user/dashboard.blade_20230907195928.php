@@ -62,7 +62,7 @@
 						</a>
 
 						<a href="{{URL('/register') }}" class="flex-c-m trans-04 p-lr-25">
-							Đăng kí
+							REGISTER
 						</a>
 					</div>
 				</div>

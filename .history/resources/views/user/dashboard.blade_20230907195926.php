@@ -58,11 +58,11 @@
 						</a>
 
 						<a href="{{URL('/login') }}" class="flex-c-m trans-04 p-lr-25">
-							Đăng nhập   
+							Đăng
 						</a>
 
 						<a href="{{URL('/register') }}" class="flex-c-m trans-04 p-lr-25">
-							Đăng kí
+							REGISTER
 						</a>
 					</div>
 				</div>

@@ -54,15 +54,15 @@
 						</a>
 
 						<a href="#" class="flex-c-m trans-04 p-lr-25">
-							Tài khoản
+							My Account
 						</a>
 
-						<a href="{{URL('/login') }}" class="flex-c-m trans-04 p-lr-25">
-							Đăng nhập   
+						<a href="{{URL::'/login'}}" class="flex-c-m trans-04 p-lr-25">
+							LOGIN
 						</a>
 
-						<a href="{{URL('/register') }}" class="flex-c-m trans-04 p-lr-25">
-							Đăng kí
+						<a href="#" class="flex-c-m trans-04 p-lr-25">
+							REGISTER
 						</a>
 					</div>
 				</div>
@@ -72,7 +72,7 @@
 				<nav class="limiter-menu-desktop container">
 					
 					<!-- Logo desktop -->		
-					<a href="{{url('/')}}" class="logo">
+					<a href="#" class="logo">
 						<img src="{{url('frontend')}}/images/icons/logo-01.png" alt="IMG-LOGO">
 					</a>
 
@@ -80,12 +80,12 @@
 					<div class="menu-desktop">
 						<ul class="main-menu">
 							<li class="active-menu">
-								<a href="{{url('/')}}">Trang Chủ</a>
+								<a href="{{url('/')}}">Home</a>
 							
 							</li>
 
 							<li>
-								<a href="{{url('/product')}}">Sản phẩm</a>
+								<a href="{{url('/product')}}">Shop</a>
 							</li>
 
 							<li class="label1" data-label1="hot">
@@ -93,15 +93,15 @@
 							</li>
 
 							<li>
-								<a href="{{url('/blog')}}">Bài viết</a>
+								<a href="{{url('/blog')}}">Blog</a>
 							</li>
 
 							<li>
-								<a href="{{url('/about')}}">Về chúng tôi</a>
+								<a href="{{url('/about')}}">About</a>
 							</li>
 
 							<li>
-								<a href="{{url('/contact')}}">Liên hệ</a>
+								<a href="{{url('/contact')}}">Contact</a>
 							</li>
 						</ul>
 					</div>	
