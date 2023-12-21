@@ -56,27 +56,12 @@
 					</div> --}}
                     <div class="wrap-input100 validate-input m-b-23" data-validate = "Username is reauired">
 						<span class="label-input100">Họ tên</span>
-						<input class="input100" type="text" name="fullName" placeholder="Type your username">
+						<input class="input100" type="text" name="username" placeholder="Type your username">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
                     <div class="wrap-input100 validate-input m-b-23" data-validate = "Username is reauired">
 						<span class="label-input100">Ngày sinh</span>
-						<input class="input100" type="date" name="birthDay" placeholder="Type your username">
-						<span class="focus-input100" data-symbol="&#xf206;"></span>
-					</div>
-                    <div class="wrap-input100 validate-input m-b-23" data-validate = "Username is reauired">
-						<span class="label-input100">Phone Number</span>
-						<input class="input100" type="number" name="phone_number" placeholder="Type your username">
-						<span class="focus-input100" data-symbol="&#xf206;"></span>
-					</div>
-                    <div class="wrap-input100 validate-input m-b-23" data-validate = "Username is reauired">
-						<span class="label-input100">address</span>
-						<input class="input100" type="text" name="address" placeholder="Type your username">
-						<span class="focus-input100" data-symbol="&#xf206;"></span>
-					</div>
-                    <div class="wrap-input100 validate-input m-b-23" data-validate = "Username is reauired">
-						<span class="label-input100">mail</span>
-						<input class="input100" type="email" name="mail" placeholder="Type your username">
+						<input class="input100" type="date" name="username" placeholder="Type your username">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
                     
