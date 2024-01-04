@@ -1,0 +1,7 @@
+.action-column {
+    max-width: 12px; /* Đặt giới hạn chiều rộng tối đa */
+     /* Ẩn phần vượt quá giới hạn */
+}
+table {
+    text-align: center;
+}

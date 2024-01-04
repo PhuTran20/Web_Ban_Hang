@@ -1,0 +1,7 @@
+.action-column {
+    max-width: 120px; /* Đặt giới hạn chiều rộng tối đa */
+    overflow: hidden; /* Ẩn phần vượt quá giới hạn */
+}
+table {
+    align-items: center;
+}

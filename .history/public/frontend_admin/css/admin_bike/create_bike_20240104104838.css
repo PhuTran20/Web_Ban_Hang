@@ -1,0 +1,14 @@
+h3 {
+    color: red;
+}
+.input_namebike {
+    text-align: center;
+    width: 40%;
+}
+.action-column {
+    max-width: 12px; /* Đặt giới hạn chiều rộng tối đa */
+    overflow: hidden; /* Ẩn phần vượt quá giới hạn */
+}
+table {
+    text-align: center;
+}
